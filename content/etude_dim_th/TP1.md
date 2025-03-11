@@ -2,7 +2,7 @@
 title: "Étude de dimensionnement thermique : TP1"
 ---
 - Entrer les paramètres suivants
-![Paramètres|400](/static/parameters.png)
+![Paramètres|400](static/parameters.png)
 - Créer les deux blocs en faisant 
 Clic droit sur Geometry -> Block
 Choisir les dimensions correctes pour chacun des deux éléments (lesquelles ont été rentrées dans les paramètres)
