@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Offside",
+        header: "Silkscreen",
         body: "Overpass",
         code: "JetBrains Mono",
       },
@@ -47,13 +47,13 @@ const config: QuartzConfig = {
         //   textHighlight: "#7b6e1b",
         // },
         darkMode: {
-          light: "#373534",        // Darker background for better contrast  
-          lightgray: "#494745",    // Subtle contrast for UI elements  
-          gray: "#8d8d8d",         // Medium gray for secondary elements  
+          light: "#0D0630",        // Darker background for better contrast  
+          lightgray: "#18314F",    // Subtle contrast for UI elements  
+          gray: "#8BBEB2",         // Medium gray for secondary elements  
           darkgray: "#d4d4d4",     // Well-balanced gray for subtext and secondary text  
-          dark: "#fcf2d8",         // Warm beige for main text (readable but not harsh)  
-          secondary: "#feb976",    // Muted golden-yellow for buttons and accents  
-          tertiary: "#bb8a3e",     // Darker gold for subheadings (less bright)  
+          dark: "#E6F9AF",         // Warm beige for main text (readable but not harsh)  
+          secondary: "#EF9CDA",    // Muted golden-yellow for buttons and accents  
+          tertiary: "#E250BE",     // Darker gold for subheadings (less bright)  
           highlight: "rgba(131, 165, 152, 0.3)",  // Soft teal-green for background highlights  
           textHighlight: "#7b6e1b", // Muted teal-blue for text highlights (clear contrast with white text)  
         }
