@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "3lW30N.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian", "public", ".quartz"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
