@@ -2,6 +2,5 @@
 title: title
 ---
 hello
-
+![image](../public/static/icon.png)
 [[TP1]]
-![](public/static/icon.png)
