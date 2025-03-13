@@ -1,7 +1,7 @@
 ---
-title: "Méthodes numériques : TD 2"
+title: Méthodes numériques
 ---
-
+# TD 2
 ## Exercice 6 :
 $T^{n+1} = AT^{n}+C$ -> Vecteur connu
 $$
