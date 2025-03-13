@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Noémie</title>
+      <link>https://3lW30N.github.io</link>
+      <description>Last 10 notes on Noémie</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Sommaire</title>
+    <link>https://3lW30N.github.io/italien/13_03</link>
+    <guid>https://3lW30N.github.io/italien/13_03</guid>
+    <description> prima coniugazione la frase .</description>
+    <pubDate>Thu, 13 Mar 2025 09:51:03 GMT</pubDate>
+  </item><item>
+    <title>La forma negativa</title>
+    <link>https://3lW30N.github.io/italien/la-forma-negativa</link>
+    <guid>https://3lW30N.github.io/italien/la-forma-negativa</guid>
+    <description>La frase Paolo è di Milano Sono spagnolo Laura abita a Roma Sono stanco/a Ho un cave Sono gia arrivato/a La frase negativa Paolo non è di Milano Non sono spagnolo Laura non abita a Roma ...</description>
+    <pubDate>Thu, 13 Mar 2025 09:48:53 GMT</pubDate>
+  </item><item>
+    <title>La forma negativa</title>
+    <link>https://3lW30N.github.io/italien/la-frase</link>
+    <guid>https://3lW30N.github.io/italien/la-frase</guid>
+    <description>La frase Paolo è di Milano Sono spagnolo Laura abita a Roma Sono stanco/a Ho un cave Sono gia arrivato/a La frase negativa Paolo non è di Milano Non sono spagnolo Laura non abita a Roma ...</description>
+    <pubDate>Thu, 13 Mar 2025 09:48:53 GMT</pubDate>
+  </item><item>
+    <title>Le particolarità della prima coniugazione</title>
+    <link>https://3lW30N.github.io/italien/prima-coniugazione</link>
+    <guid>https://3lW30N.github.io/italien/prima-coniugazione</guid>
+    <description>1. I verbi come studiare/mangiare/viaggiare Studiare studi | o studi | studi | a studi | amo studi | ate studi | ano Parlare parl | o parl | i parl | a parl | amo parl | ate parl | ano Esempio Che cose studi ? Studio ingegneria Come viaggi ? Viaggio in aereo Che cosa mangi ? 2.</description>
+    <pubDate>Thu, 13 Mar 2025 09:48:33 GMT</pubDate>
+  </item><item>
+    <title>Accueil</title>
+    <link>https://3lW30N.github.io/</link>
+    <guid>https://3lW30N.github.io/</guid>
+    <description>TP1 Italien.</description>
+    <pubDate>Thu, 13 Mar 2025 09:23:58 GMT</pubDate>
+  </item><item>
+    <title>Méthodes numériques : TD 2</title>
+    <link>https://3lW30N.github.io/methode_num</link>
+    <guid>https://3lW30N.github.io/methode_num</guid>
+    <description>Exercice 6 : T^{n+1} = AT^{n}+C → Vecteur connu \begin{pmatrix} T_1\\ T_2\\ .\\.\\T_{N-1} \end{pmatrix} = \begin{pmatrix} 1-2\lambda &amp; \lambda &amp; &amp; \mathbf{0}\\ ...</description>
+    <pubDate>Wed, 12 Mar 2025 08:22:10 GMT</pubDate>
+  </item><item>
+    <title>title</title>
+    <link>https://3lW30N.github.io/page-1</link>
+    <guid>https://3lW30N.github.io/page-1</guid>
+    <description>hello TP1.</description>
+    <pubDate>Wed, 12 Mar 2025 05:51:47 GMT</pubDate>
+  </item><item>
+    <title>TP1 : Comsol</title>
+    <link>https://3lW30N.github.io/Etude-de-dimensionnement-thermique/TP1</link>
+    <guid>https://3lW30N.github.io/Etude-de-dimensionnement-thermique/TP1</guid>
+    <description>...</description>
+    <pubDate>Wed, 12 Mar 2025 05:41:48 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

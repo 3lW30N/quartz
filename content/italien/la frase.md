@@ -28,3 +28,11 @@ title: La forma negativa
  **Non** ho un cave
  
  **Non** sono gia arrivato/a
+
+## La frase interrogativa
+
+ Hai fame ?
+ 
+ Conoscete Roma ?
+ 
+ Vieni con me ?
